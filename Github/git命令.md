@@ -19,3 +19,7 @@ git push -u origin main
 
 ## 更新库文件(已配置好的库)
 
+git status 
+git add .
+git commit -m "更新说明"
+git push

@@ -1,0 +1,4 @@
+﻿  glad.c
+  shaders1.cpp
+G:\GH\Project\PersonnalProject\LearnOpenGL\01_GettingStarted\Shaders\Project1\shaders1.cpp(149,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> G:\GH\Project\PersonnalProject\LearnOpenGL\01_GettingStarted\Shaders\Debug\Shaders1.exe
